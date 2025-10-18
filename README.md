@@ -19,14 +19,10 @@ Powered by **React** • **Next.js** • + a pinch of **AI**. ⚡
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,git,vscode" />
 </p>
 
----
-
 ## 🏆 Achievements & Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=okisandika15&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
 </p>
-
----
 
 ## 📊 Stats & Streaks
 <p align="center">
@@ -38,8 +34,6 @@ Powered by **React** • **Next.js** • + a pinch of **AI**. ⚡
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=okisandika15&theme=tokyo-night&hide_border=true&radius=12&area=true" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 <p align="center">
@@ -73,8 +67,6 @@ Powered by **React** • **Next.js** • + a pinch of **AI**. ⚡
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=okisandika15&style=flat-square&color=00FFFF" alt="Profile views" />
 </p>
-
----
 
 <div align="center">
 
