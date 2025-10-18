@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- CYBERPUNK PROFILE DESIGN by ChatGPT -->
 
-<!--
-**okisandika15/okisandika15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# ⚡️<span style="color:#00ffff;">Oki Sandika</span> ⚡️  
+### 💻 Cyberpunk Themed Developer Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Neon Divider](https://i.imgur.com/yYbKq9t.gif)
+
+</div>
+
+---
+
+### 🧠 About Me
+
+> 🌐 Tech Enthusiast | ⚙️ Computer & Network Engineer | 🔒 Cyber Security Learner  
+> I'm always exploring the intersection between **technology, hacking, and creativity.**
+
+---
+
+### 🚀 Tech Stack
+
+```bash
+💾 Programming: Python | PHP | JavaScript
+🖧 Networking: Mikrotik | Cisco | VirtualBox | Linux
+🔐 Security: Wireshark | Nmap | OpenVPN | Metasploit
+⚙️ Tools: VS Code | Git | Wireshark | Figma
