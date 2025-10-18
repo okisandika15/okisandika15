@@ -12,8 +12,6 @@ Powered by **React** • **Next.js** • + a pinch of **AI**. ⚡
 </div>
 
 
----
-
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,git,vscode" />
@@ -54,8 +52,6 @@ Powered by **React** • **Next.js** • + a pinch of **AI**. ⚡
 > 📈 CRUD-based data management system for efficient record handling.  
 > ⚙️ Emphasizes accuracy, usability, and performance.  
 > 💾 **Stack:** PHP • MySQL  
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
