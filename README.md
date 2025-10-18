@@ -6,8 +6,8 @@
 
 ### Hey there! 👋 I'm **Oki Sandika**
 
-I craft **modern web** with clean UI, smooth UX, and spicy performance.  
-Exploring **React • Next.js • Tailwind • Vite • Firebase** + a bit of **automation/AI**. 🚀
+Crafting **futuristic** web experiences • **sleek design** • **smooth flow** • + **speed that bites.**
+Powered by **React** • **Next.js** • + a pinch of **AI**. ⚡
 
 </div>
 
@@ -51,14 +51,10 @@ Exploring **React • Next.js • Tailwind • Vite • Firebase** + a bit of **
 > 🎨 Clean design meets cyberpunk vibes.  
 > 💾 **Stack:** HTML • CSS • JS  
 
----
-
 ### 🛒 [Store](https://github.com/okisandika15/store)
 > 🛍️ Simple e-commerce app with login, cart, checkout, and admin panel.  
 > 🧩 Focused on backend logic and UI flow.  
 > 💾 **Stack:** PHP • MySQL • JS  
-
----
 
 ### 📊 [Data Entry](https://github.com/okisandika15/data-entry)
 > 📈 CRUD-based data management system for efficient record handling.  
@@ -70,8 +66,8 @@ Exploring **React • Next.js • Tailwind • Vite • Firebase** + a bit of **
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/okisandika15"><img src="https://img.shields.io/badge/GitHub-Okisandika15-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-@okisandika15-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Oki%20Sandika-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/okisandikaa"><img src="https://img.shields.io/badge/Instagram-@okisandikaa-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/okisandikaa"><img src="https://img.shields.io/badge/LinkedIn-Oki%20Sandika-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
