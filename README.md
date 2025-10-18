@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&multiline=true&width=800&lines=Rendy+Al+Diansyah+(MAS+R);Build+fast+%7C+Look+good+%7C+Ship+proudly" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&multiline=true&width=800&lines=Oki+Sandika;Build+fast+%7C+Look+good+%7C+Ship+proudly" alt="Typing SVG" />
 
 ### Hey there! 👋 I'm **Oki Sandika**
 
