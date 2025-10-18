@@ -54,21 +54,15 @@ Exploring **React • Next.js • Tailwind • Vite • Firebase** + a bit of **
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&color=00FFFF&center=true&vCenter=true&width=500&lines=Exploring+Ideas...;Building+Future...;Powered+by+Code+and+Curiosity!" />
 </p>
 
----
-
 ### 🧠 [Portofolio](https://github.com/okisandika15/portofolio)
 > ⚡ Personal portfolio website built to showcase my skills, projects, and digital journey.  
 > 🖥️ Designed with clean code and cyberpunk-inspired aesthetics.  
 > 💾 Technologies: HTML, CSS, JS  
 
----
-
 ### 🛒 [Store](https://github.com/okisandika15/store)
 > 💀 Simple e-commerce platform featuring login system, cart, checkout, and admin panel.  
 > 🔐 Built for learning full-stack development and business logic flow.  
 > ⚙️ Technologies: PHP, MySQL, JS  
-
----
 
 ### 📊 [Data Entry](https://github.com/okisandika15/data-entry)
 > 🧩 CRUD-based data management system for storing, editing, and analyzing records efficiently.  
