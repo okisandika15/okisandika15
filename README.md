@@ -1,17 +1,16 @@
-<!-- README Profil — Oki Sandika -->
+<!-- README Profil — okisandika -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&multiline=true&width=800&lines=Oki+Sandika;Build+Fast+⚡+Look+Good+💎+Ship+Proudly" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&multiline=true&width=800&lines=Oki+Sandika;Build+fast+%7C+Look+good+%7C+Ship+proudly" alt="Typing SVG" />
 
-### 👋 Hey there! I'm **Oki Sandika**
+### Hey there! 👋 I'm **Oki Sandika**
 
-I craft **modern web apps** with clean UI, smooth UX, and spicy performance.  
-Exploring **React • Next.js • Tailwind • Vite • Firebase** + a bit of **automation & AI** 🚀  
-
-💬 *“Need Money For Freedom” — Living free in a wired world.*
+I craft **modern web** with clean UI, smooth UX, and spicy performance.  
+Exploring **React • Next.js • Tailwind • Vite • Firebase** + a bit of **automation/AI**. 🚀
 
 </div>
+
 
 ---
 
