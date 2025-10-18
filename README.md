@@ -21,4 +21,7 @@
 ---
 
 ### 🚀 Tech Arsenal
-
+💾 Programming : Python | JavaScript | PHP
+🖧 Networking : MikroTik | Cisco | Linux | VirtualBox
+🔒 Security : Wireshark | Nmap | OpenVPN | Metasploit
+⚙️ Tools : Git | VS Code | Figma | Postman
