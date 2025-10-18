@@ -48,7 +48,6 @@ Exploring **React • Next.js • Tailwind • Vite • Firebase** + a bit of **
 
 ---
 
-## 🔗 Featured Projects
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -82,7 +81,7 @@ Exploring **React • Next.js • Tailwind • Vite • Firebase** + a bit of **
 
 ## 🤝 Connect with Me
 <p>
-  <a href="https://github.com/okisandika15"><img src="https://img.shields.io/badge/GitHub-rendyaldiansyah-0A0A0A?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/okisandika15"><img src="https://img.shields.io/badge/GitHub-okisandika15-0A0A0A?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
