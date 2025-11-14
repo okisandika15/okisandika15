@@ -72,13 +72,3 @@ Powered by **React** • **Next.js** • + a pinch of **AI**. ⚡
 **– Dari yang pernah tersakiti–**
 
 </div>
-
-## ⚙️ Cara Pakai Template Ini
-
-1. Ganti semua **YourName**, **YourGithub**, dan link sosial.
-2. Tempelkan isi file ini ke **README.md** di repositori `yourusername/yourusername`.
-3. Nikmati tampilan profil GitHub yang keren.
-
----
-
-Terima kasih sudah mengunjungi! ⭐ Jangan lupa kasih star jika Anda terinspirasi!
