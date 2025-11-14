@@ -72,3 +72,101 @@ Powered by **React** • **Next.js** • + a pinch of **AI**. ⚡
 **– Dari yang pernah tersakiti–**
 
 </div>
+
+
+
+
+# 👋 Hi, I'm **YourName**
+
+Selamat datang di profil GitHub saya! README ini interaktif dan fungsional untuk mempercantik tampilan profil Anda.
+
+---
+
+## 🚀 Tentang Saya
+
+* 🔧 **Teknologi Favorit:** JavaScript, Python, Go, Docker
+* 🎯 **Fokus Saat Ini:** Building web apps & learning cloud computing
+* 🌱 **Sedang Belajar:** Kubernetes, CI/CD, Microservices
+* 📬 **Hubungi Saya:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## 🛠️ Bahasa & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,go,docker,kubernetes,linux&perline=6" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGithub&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGithub&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGithub&theme=dracula&column=6" />
+</p>
+
+---
+
+## 🎵 Currently Listening (Spotify)
+
+> **Note:** Anda butuh akun Spotify + layanan API publik seperti *vercel-spotify*.
+
+<p align="center">
+  <img src="https://spotify-now-playing-yourusername.vercel.app/api/spotify" width="400">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YourGithub&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Sosial Media
+
+<p align="left">
+  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
+  <a href="https://youtube.com/yourusername"><img src="https://skillicons.dev/icons?i=youtube" width="45" /></a>
+  <a href="https://tiktok.com/@yourusername"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
+</p>
+
+---
+
+## 🧭 Roadmap 2025
+
+* [x] Pelajari Docker
+* [ ] Deploy full CI/CD pipeline
+* [ ] Bangun aplikasi Go + React
+* [ ] Pelajari Kubernetes secara mendalam
+
+---
+
+## ⚙️ Cara Pakai Template Ini
+
+1. Ganti semua **YourName**, **YourGithub**, dan link sosial.
+2. Tempelkan isi file ini ke **README.md** di repositori `yourusername/yourusername`.
+3. Nikmati tampilan profil GitHub yang keren.
+
+---
+
+Terima kasih sudah mengunjungi! ⭐ Jangan lupa kasih star jika Anda terinspirasi!
